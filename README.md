@@ -13,8 +13,8 @@
  - Social Media Marketing
         All will work to navigate you to the main parts of the page. 
         Example:
-        ![NAVIGATIONBUTTON](C:\Users\tonys\Coding-BootCamp-Module-1-Challenge\Challenge 1 nav button.PNG)
-        ![SearchEngineSection](C:\Users\tonys\Coding-BootCamp-Module-1-Challenge\Search engine optimization section example.PNG)
+        ![NAVIGATIONBUTTON](Challenge 1 nav button.PNG)
+        ![SearchEngineSection](Search engine optimization section example.PNG)
 
 
 
