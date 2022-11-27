@@ -14,7 +14,7 @@
         All will work to navigate you to the main parts of the page. 
         Example:
         ![NAVIGATIONBUTTON](Nav Button 1.JPG)
-        ![SearchEngineSection](Search engine optimization section.JPG)
+        
 
 
 
